@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-i am ILBBBM2, i usually do c++ and C, but i also do some C# and python
+i am ILBBBM2, i usually do c++ and C, but i also do some C# and python, all my projects are open sourfce but subject to the chicken dance license ( ͡° ͜ʖ ͡°)
 
 
 ## 🌐 Socials:
