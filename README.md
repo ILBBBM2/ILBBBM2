@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-i am ILBBBM2, i usually do c++ and C, but i also do some C# and python, all my projects are open sourfce but subject to the chicken dance license ( ͡° ͜ʖ ͡°)
+i am ILBBBM2, i usually do c++ and C, but i also do some C# and python, all my projects are open source :)
 
 
 ## 🌐 Socials:
@@ -14,4 +14,4 @@ i am ILBBBM2, i usually do c++ and C, but i also do some C# and python, all my p
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+01100010 01101110 01011010 00110001 01100001 01010111 01110000 01101001 ;) for someone i know
